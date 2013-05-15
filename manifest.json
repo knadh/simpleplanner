@@ -1,0 +1,17 @@
+{
+  "name": "Simple Planner",
+  "description": "A super simple personal day planner",
+  "version": "1.4",
+  "app": {
+    "launch": {
+      "local_path": "index.html",
+	  "container": "tab"
+    }
+  },
+  "icons": {
+    "16": "images/16.png",
+    "128": "images/128.png"
+  },
+  "offline_enabled": true,
+  "homepage_url": "http://kailashnadh.name/simpleplanner"
+}
